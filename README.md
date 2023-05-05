@@ -8,18 +8,32 @@
 
 # Outline
 
-## 01. Guidelines
+https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/lesson_1
+
+## 01. Guidelines of Prompting
 
 * Principles of Prompting
 * Tactics
 
-## 02. 
+## 02. Iterative Prompt Development
+
+In this lesson, you'll iteratively analyze and refine your prompts to generate marketing copy from a product fact sheet.
+
+## 03. Summarizing
 
 
-## 03.
+## 04. Inferring
 
 
-## 04.
+## 05. Transforming
 
 
-## 05.
+## 06. Expanding
+
+
+## 07. Chatbot
+
+
+## 08. Conclusion
+
+
